@@ -12,7 +12,7 @@ More specifically, we emphasize the need for acquiring a scientific understandin
 
 Due to this knowledge gap we resort to the brute-force technique of trying every possible ML model and search over every possible combination of the hyperparameter values. This is not science, and nor is it feasible for large and complex problems.
 
-The goal of this notebook series is to convince ourselves **the need for acquiring a scientic understanding of the ML models**, which will lead toward the knowledge on optimal training of the models.
+The goal of this notebook series is to convince ourselves **the need for acquiring a scientific understanding of the ML models**, which will lead toward the knowledge on optimal training of the models.
 
 In the two notebooks we will explore 10 Machine Learning (ML) classifier models:
 1. K-Nearest Neighbor (KNN)
