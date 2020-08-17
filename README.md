@@ -1,4 +1,4 @@
-# Machine Learning Classifier Models: Justification for Scientif Understanding
+# Machine Learning Classifier Models: Justification for a Scientific Understanding
 
 
 In this repository we address the following question:
