@@ -1,9 +1,9 @@
-# Machine Learning Classifier Models: Justification for a Scientific Understanding
+# Machine Learning Classifier Models: Motivation for Scientific Understanding
 
 
 In this repository we address the following question:
 
-- Given a problem (dataset), how do we choose the best ML model and its settings?
+- Given a problem (dataset), how do we choose the best ML model and its hyperparameters?
 
 More specifically, we emphasize the need for acquiring a scientific understanding of the ML models. Lack of this knowledge limits our ability to use ML for solving practical problems in two ways:
 
@@ -12,10 +12,10 @@ More specifically, we emphasize the need for acquiring a scientific understandin
 
 Due to this knowledge gap we resort to the brute-force technique of trying every possible ML model and search over every possible combination of the hyperparameter values. This is not science, and nor is it feasible for large and complex problems.
 
-The goal of this notebook series is to convince ourselves **the need for acquiring a scientific understanding of the ML models**, which will lead toward the knowledge on optimal training of the models.
+The goal of this notebook series is to convince ourselves **the need for acquiring a scientific understanding of the ML models**, which will lead towards the knowledge of the science of optimal training of the models.
 
 In the two notebooks we will explore 10 Machine Learning (ML) classifier models:
-1. K-Nearest Neighbor (KNN)
+1. K-Nearest Neighbors (KNN)
 2. Logistic Regression
 3. Polynomial Logistic Regression
 4. Naive Bayes
