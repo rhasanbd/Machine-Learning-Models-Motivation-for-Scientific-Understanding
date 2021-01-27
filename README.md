@@ -28,4 +28,4 @@ In the two notebooks we will explore 10 Machine Learning (ML) classifier models:
 
 
 
-Thus, after reviewing the two notebooks we should be able to convince ourselves **the need for acquiring a scientic understanding of these ML models**. Also we should be able to realize that in practical scenarions problems are significantly more challenging, thus requires deeper understanding of the models.
+Thus, after reviewing the two notebooks we should be able to convince ourselves **the need for acquiring a scientific understanding of these ML models**. Also we should be able to realize that in practical scenarions problems are significantly more challenging, thus requires deeper understanding of the models.
