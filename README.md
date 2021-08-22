@@ -3,7 +3,7 @@
 
 In this repository we address the following question:
 
-- Given a problem (dataset), how do we choose the best ML model and its hyperparameters?
+- Given a problem (dataset), how do we choose the best ML model and its hyperparameters (these are model parameters that are required to be set for learning patterns from training data)?
 
 More specifically, we emphasize the need for acquiring a scientific understanding of the ML models. Lack of this knowledge limits our ability to use ML for solving practical problems in two ways:
 
@@ -28,4 +28,4 @@ In the two notebooks we will explore 10 Machine Learning (ML) classifier models:
 
 
 
-Thus, after reviewing the two notebooks we should be able to convince ourselves **the need for acquiring a scientific understanding of these ML models**. Also we should be able to realize that in practical scenarions problems are significantly more challenging, thus requires deeper understanding of the models.
+After reviewing the two notebooks we should be able to convince ourselves **the need for acquiring a scientific understanding of these ML models**. Also we should be able to realize that in practical scenarions problems are significantly more challenging, thus requires deeper understanding of the models.
