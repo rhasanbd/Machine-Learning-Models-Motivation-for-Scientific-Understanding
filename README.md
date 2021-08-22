@@ -3,7 +3,7 @@
 
 In this repository we address the following question:
 
-- Given a problem (dataset), how do we choose the best ML model and its hyperparameters (these are model parameters that are required to be set for learning patterns from training data)?
+- Given a problem (dataset), how do we choose the best Machine Learning (ML) model and its hyperparameters (these are model parameters that are required to be set for learning patterns from training data)?
 
 More specifically, we emphasize the need for acquiring a scientific understanding of the ML models. Lack of this knowledge limits our ability to use ML for solving practical problems in two ways:
 
@@ -14,7 +14,7 @@ Due to this knowledge gap we resort to the brute-force technique of trying every
 
 The goal of this notebook series is to convince ourselves about **the need for acquiring a scientific understanding of the ML models**, which will lead towards the knowledge of the science of optimal training of the models.
 
-In the two notebooks we will explore 10 Machine Learning (ML) classifier models:
+In the two notebooks we will explore 10 ML classifier models:
 1. K-Nearest Neighbors (KNN)
 2. Logistic Regression
 3. Polynomial Logistic Regression
