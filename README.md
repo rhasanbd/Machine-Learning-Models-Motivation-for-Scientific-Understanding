@@ -3,7 +3,7 @@
 
 In this repository, we address the following question:
 
-- Given a problem, how do we choose the best Machine Learning (ML) model and its hyperparameters (these are model parameters that are required to be set for learning patterns from training data)?
+- Given a problem, how do we choose the best machine learning (ML) model and its hyperparameters (these are model parameters that are required to be set for learning patterns from training data)?
 
 More specifically, we emphasize the need to acquire a scientific understanding of the ML models. A lack of this knowledge limits our ability to use ML for solving practical problems in two ways:
 
